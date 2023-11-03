@@ -6,6 +6,19 @@ It is very imporatant to maintain efficient software to handle information of a 
 This application provides a way to record this information and to access these in a simple way.
 
 ### UML DIAGRAMS:
+#### use case diagram
+
+##### class diagram
+
+##### sequence diagram
+
+##### collaboration diagram
+
+##### state chart diagram
+
+##### activity diagram
+
+##### package diagram
 
 
 
